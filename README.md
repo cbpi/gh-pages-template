@@ -1,4 +1,4 @@
-# git-pages template
+# gh-pages template
 
 ![image](http://pdfetjd6h.bkt.clouddn.com/git-page-img1.png)
 
